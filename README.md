@@ -1,2 +1,2 @@
 # Micorsoft Edge surf game
-https://bluesky01st.github.io/edgesurf
+[Play it!](https://bluesky01st.github.io/edgesurf)
